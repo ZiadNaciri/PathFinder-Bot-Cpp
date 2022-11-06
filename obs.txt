@@ -1,0 +1,39 @@
+//position de 1 er  obstacle
+    Xobs[0]=1100;
+    Yobs[0]=500;
+    Robs[0]=70;
+
+//position de 2 ème obstacle
+    Xobs[1]=400;
+    Yobs[1]=600;
+    Robs[1]=60;
+
+//position de 3 ème obstacle
+    Xobs[2]=500;
+    Yobs[2]=150;
+    Robs[2]=60;
+
+//position de 4 ème obstacle
+    Xobs[3]=900;
+    Yobs[3]=150;
+    Robs[3]=80;
+
+//position de 5 ème obstacle
+    Xobs[4]=750;
+    Yobs[4]=550;
+    Robs[4]=60;
+
+//position de 6 ème obstacle
+    Xobs[5]=250;
+    Yobs[5]=250;
+    Robs[5]=60;
+
+//position de 7 ème obstacle
+    Xobs[6]=550;
+    Yobs[6]=360;
+    Robs[6]=50;
+
+//position de 8 ème obstacle
+    Xobs[7]=150;
+    Yobs[7]=550;
+    Robs[7]=40;
