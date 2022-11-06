@@ -1,4 +1,4 @@
-# Project: RobotAchraf
+# Project: PathFinder Bot
 # Makefile created by Dev-C++ 5.11
 
 CPP      = g++.exe
